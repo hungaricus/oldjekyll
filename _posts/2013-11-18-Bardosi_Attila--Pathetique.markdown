@@ -1,0 +1,8 @@
+---
+title: Bárdosi Attila harmadik verseskötete
+img: Bardosi_Attila--Pathetique
+category: Új megjelenés
+layout: post
+---
+Megjelent <a href='http://www.adlibrum.hu/new/?task=pageSelection&q=bárdosi'>Bárdosi Attila</a> harmadik verseskötete az Ad Librumnál <a href='http://adlibrum.hu/new/index.php?task=pageDetails&id=519'>Pathétique</a> címen. 
+

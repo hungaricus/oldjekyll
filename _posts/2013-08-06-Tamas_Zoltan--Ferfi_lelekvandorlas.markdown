@@ -1,0 +1,8 @@
+---
+title: Férfi lélekvándorlás
+img: Tamas_Zoltan--Ferfi_lelekvandorlas
+category: Új megjelenés
+layout: post
+---
+<a href='http://www.adlibrum.hu/new/?task=pageSelection&q=tamás zoltán'>Tamás Zoltán</a> újabb <a href='http://adlibrum.hu/new/index.php?task=pageDetails&id=293'>műve</a> egyszerre humor és filozófia az életről, a halálról, a boldogságról, a valóságról és a misztikumról. 
+

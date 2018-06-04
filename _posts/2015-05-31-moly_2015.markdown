@@ -1,0 +1,8 @@
+---
+title: <img class='thumbnail' src='img/logos/adlibrumlogo_72.png' width='100px' />moly.hu
+img: moly_2015
+category: Új megjelenés
+layout: post
+---
+A <strong>moly</strong> jelenleg 138 Ad Librum kiadványt tart számon. 
+

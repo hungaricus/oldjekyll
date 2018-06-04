@@ -1,0 +1,8 @@
+---
+title: A kulturális emlékezet tudományos igényű elemzése
+img: Bako_Bela--Orokseg_es_tortenelem_kozott
+category: Új megjelenés
+layout: post
+---
+Bakó Béla a Nyugat-magyarországi Egyetem oktatója e könyvében kulturális emlékezetet mint a történelmi érdeklődés és a kulturális örökség között álló fogalmat vizsgálja. A kulturális emlékezet kutatása hozzásegíthet egy adott társadalom mai kultúrájának, gondolkodásának és mentalitásának megismeréséhez. 
+

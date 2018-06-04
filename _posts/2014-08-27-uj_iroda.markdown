@@ -1,0 +1,8 @@
+---
+title: <img class='thumbnail' src='pics/adlibrumlogo_black_125x47.png' />Új kiadói iroda
+img: uj_iroda
+category: Új megjelenés
+layout: post
+---
+Az Ad Librum új címe 19. ker. (Kispest), Klapka u. 26. Ez egyben a kiadó postacíme és székhelye is. Ügyfélfogadás minden munkanap 9 és 13 óra között. 
+

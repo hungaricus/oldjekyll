@@ -1,0 +1,8 @@
+---
+title: Impakt Könyvmarketing
+img: impakt_konyvmarketing
+category: Új megjelenés
+layout: post
+---
+Az <a href='http://impakt.hu/csomagok/' target='_blank'>Impakt szolgáltatáscsomagja</a> könyvismertető weblap, szerzői interjú és recenziók segítségével ismertetik meg a kiadott könyveket. 
+
