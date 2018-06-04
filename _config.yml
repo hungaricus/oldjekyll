@@ -10,3 +10,5 @@ url: "http://adlibrum.hu" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
+
+theme: jekyll-theme-architect
