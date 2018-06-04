@@ -4,7 +4,7 @@ email: info@adlibrum.hu
 description: > # this means to ignore newlines until "baseurl:"
   Az <strong>Ad Librum Kft.</strong> kortárs szép- és szórakoztató irodalmat ad ki <em>Ad Librum Kiadó</em> néven, továbbá ismeretterjesztő és szakirodalmat <em>Expert Books</em> név alatt és tudományos köteteket <em>StormingBrain Kiadó</em> márkanévvel.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://oldjekyll.github.com" # the base hostname & protocol for your site
+url: "https://hungaricus.github.io" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
